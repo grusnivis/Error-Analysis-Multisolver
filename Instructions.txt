@@ -1,0 +1,18 @@
+ERROR ANALYSIS MULTISOLVER | CpE 3108 Numerical Methods Project
+Authors:
+1.) Allard Liam Bayalas - Project Leader
+2.) Vince Andrei Retutal
+3.) Kathryn Marie Sigaya
+
+=========================================
+
+INSTRUCTIONS:
+1.) Install an integrated development environment (IDE) for C programming such as Dev-C++ on your computer.
+
+2.) Open the Error Analysis Multisolver.dev file and press the Compile & Run icon at the header, or press the F11 key on your keyboard.
+
+3.) The program should begin compiling and an executable file window will appear. This should show the "Error Analysis Multisolver" menu with the list of methods.
+
+4.) Choose from the listed methods shown on the window and input the needed values based on what is asked for each method.
+
+5.) The chosen method will perform the calculations accordingly after inputting the given values.
