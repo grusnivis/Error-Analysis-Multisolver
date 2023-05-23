@@ -66,7 +66,7 @@ int choices(int choices){
 			printf("You have chosen 'Absolute & Relative Error'.\n\n");
 			
 			printf("True Value: ");
-			scanf("%lf", &trueVal);
+			scanf("%lf", &trueVal); //use lf for storing double values on using scanf
 			
 			printf("Approximate Value: ");
 			scanf("%lf", &approxVal);

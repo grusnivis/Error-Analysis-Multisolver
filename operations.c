@@ -38,9 +38,9 @@ void AbsRel(double trueVal, double approxVal){
 	double absErr, relErr;
 	
 	absErr = trueVal - approxVal;
-	absErr = fabs(absErr);
+	absErr = fabs(absErr); //returns the absolute value of its floating-point argument
 	relErr = absErr / trueVal;
-	relErr = fabs(relErr);
+	relErr = fabs(relErr); //if x > 0 then x. if x < 0 then -x
 	
 	printf("\nAbsolute Error: %.10f\nRelative Error: %.10f\n\n",absErr, relErr);	
 	
